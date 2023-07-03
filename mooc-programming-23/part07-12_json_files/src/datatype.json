@@ -1,0 +1,55 @@
+{
+    "id": {
+        "type": "int"
+    },
+    "namee": {
+        "type": "str"
+    },
+    "stu1": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "str"
+            },
+            "age": {
+                "type": "int"
+            },
+            "hobbies": {
+                "type": "list",
+                "items": [
+                    {
+                        "type": "str"
+                    },
+                    {
+                        "type": "str"
+                    }
+                ]
+            }
+        }
+    },
+    "stu2": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "str"
+            },
+            "age": {
+                "type": "int"
+            },
+            "hobbies": {
+                "type": "list",
+                "items": [
+                    {
+                        "type": "str"
+                    },
+                    {
+                        "type": "str"
+                    },
+                    {
+                        "type": "str"
+                    }
+                ]
+            }
+        }
+    }
+}

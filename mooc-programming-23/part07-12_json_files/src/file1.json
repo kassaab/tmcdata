@@ -1,0 +1,21 @@
+{
+    "id": 1234,
+    "namee": "Abraham",
+    "stu1": {
+        "name": "Peter Pythons",
+        "age": 27,
+        "hobbies": [
+            "coding",
+            "knitting"
+        ]
+    },
+    "stu2": {
+        "name": "Jean Javanese",
+        "age": 24,
+        "hobbies": [
+            "coding",
+            "rock climbing",
+            "reading"
+        ]
+    }
+}
